@@ -1,3 +1,7 @@
+﻿/**
+ * TransactionProgress Component
+ * Renders current states of stealth verification and claim processes.
+ */
 import React from 'react';
 import { ExternalLink, CheckCircle, XCircle, Clock, Loader2, Copy, Check, FileText, UserCheck } from 'lucide-react';
 
@@ -299,7 +303,7 @@ export const TransactionProgress: React.FC<TransactionProgressProps> = ({
                   {participant.onChainPaid ? (
                     <span className="pulse-badge status-success" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
                       <UserCheck size={12} />
-                      <span>Paid ✅</span>
+                      <span>Paid âœ…</span>
                     </span>
                   ) : (
                     <span className="pulse-badge status-pending" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
