@@ -1,3 +1,7 @@
+﻿/**
+ * App Root Component
+ * Handles global state routing and dashboard layout structures.
+ */
 import { useState, useEffect, useRef } from 'react';
 import { useWallet } from './hooks/useWallet';
 import { Header } from './components/Header';
@@ -112,7 +116,7 @@ function App() {
         }
       );
 
-      // Start real-time contract status polling to check when registry changes to Paid ✅
+      // Start real-time contract status polling to check when registry changes to Paid âœ…
       pollIntervalRef.current = setInterval(async () => {
         const onChainStatus = await getSplitStatusOnChain(generatedBillId);
         if (onChainStatus && onChainStatus.participants) {
