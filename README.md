@@ -48,7 +48,8 @@ VeilSplit addresses these privacy vulnerabilities through two core mechanisms:
 
 ## Pitch Deck
 
-- 📊 **Pitch Deck:** [docs/pitch_deck_content.md](docs/pitch_deck_content.md)
+- 📊 **Pitch Deck (PDF):** [docs/pitch_deck.pdf](docs/pitch_deck.pdf)
+- 📝 **Pitch Deck Content (Markdown):** [docs/pitch_deck_content.md](docs/pitch_deck_content.md)
 
 ## Demo Video
 
