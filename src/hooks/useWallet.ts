@@ -1,3 +1,7 @@
+﻿/**
+ * useWallet Custom Hook
+ * Manages wallet connection state, checks installation, and fetches XLM balances.
+ */
 import { useState, useEffect, useCallback } from 'react';
 import { fetchXlmBalance } from '../lib/stellar';
 import { StellarWalletsKit } from '@creit.tech/stellar-wallets-kit';
