@@ -1,3 +1,6 @@
+﻿//! BillRegistry Smart Contract
+//! Manages hashed commitments and secure, private disbursements on Stellar.
+
 #![no_std]
 use soroban_sdk::{contract, contractimpl, contracttype, Address, BytesN, Env, Vec};
 use stealth_pay::StealthPayContractClient;
