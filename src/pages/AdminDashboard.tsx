@@ -1,3 +1,7 @@
+﻿/**
+ * AdminDashboard Page
+ * Displays platform statistics and logs powered by Soroban RPC polling.
+ */
 import { useState, useEffect } from 'react';
 import { BarChart3, Users, FileText, CheckCircle } from 'lucide-react';
 import telemetryData from '../telemetry_report.json';
