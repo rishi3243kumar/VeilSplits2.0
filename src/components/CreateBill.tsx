@@ -1,3 +1,7 @@
+﻿/**
+ * CreateBill Component
+ * Handles parameters and UI for launching private splits on-chain.
+ */
 import React, { useState } from 'react';
 import { Send, Users, Coins, Shield, RefreshCw, Copy, Check } from 'lucide-react';
 import { isValidPublicKey } from '../lib/stellar';
