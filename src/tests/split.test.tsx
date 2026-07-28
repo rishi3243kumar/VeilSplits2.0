@@ -1,3 +1,7 @@
+﻿/**
+ * Split logic unit tests
+ * Validates bill split calculations and stealth claim signatures.
+ */
 import { describe, test, expect, vi } from 'vitest';
 
 // Mock the stellar.ts library to prevent loading the browser-only StellarWalletsKit in Node/Vitest
