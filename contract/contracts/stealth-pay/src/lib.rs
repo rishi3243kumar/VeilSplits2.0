@@ -1,3 +1,6 @@
+﻿//! StealthPay Smart Contract
+//! Implements one-time stealth address generation and signature verification.
+
 #![no_std]
 use soroban_sdk::{contract, contractimpl, contracttype, Address, BytesN, Bytes, Env};
 
