@@ -1,3 +1,7 @@
+﻿/**
+ * SplitForm Component
+ * Allows users to define split parameters and participants.
+ */
 import React, { useState, useEffect } from 'react';
 import { Plus, Trash2, Send, Users, Coins, Info } from 'lucide-react';
 import { isValidPublicKey } from '../lib/stellar';
