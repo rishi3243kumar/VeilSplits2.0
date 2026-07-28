@@ -1,3 +1,7 @@
+﻿/**
+ * Stellar SDK Helper Module
+ * Encapsulates operations for Horizon, Soroban RPC, and transaction builders.
+ */
 import { Buffer } from 'buffer';
 
 // Ensure Buffer is available in the browser context for stellar-sdk XDR operations
