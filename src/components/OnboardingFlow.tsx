@@ -1,3 +1,7 @@
+﻿/**
+ * OnboardingFlow Component
+ * Walks new users through connecting their wallet and fund setup.
+ */
 import React, { useState, useEffect } from 'react';
 import { Shield, Coins, Share2, ArrowRight, X } from 'lucide-react';
 
