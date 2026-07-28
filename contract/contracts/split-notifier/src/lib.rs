@@ -1,3 +1,6 @@
+﻿//! SplitNotifier Smart Contract
+//! Handles events and notifications for split settlement transactions.
+
 #![no_std]
 use soroban_sdk::{contract, contractimpl, contracttype, Symbol, Env, String, Address};
 
