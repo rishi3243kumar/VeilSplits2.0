@@ -202,7 +202,7 @@ We scaled from our initial beta testers to 50+ unique users by distributing the 
   ![Analytics Dashboard Screenshot](image-2.png)
 
 - **Stellar Expert Transaction Proof:**
-  ![Stellar Expert Transaction Proof](stellar-expert-proof.png)
+  ![Stellar Expert Transaction Proof](image-4.png)
 
 ## Next Phase Roadmap
 
