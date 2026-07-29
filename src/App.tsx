@@ -1,4 +1,4 @@
-﻿/**
+/**
  * App Root Component
  * Handles global state routing and dashboard layout structures.
  */
@@ -273,7 +273,7 @@ function App() {
           }}>
             <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>Share VeilSplit:</span>
             <a
-              href="https://twitter.com/intent/tweet?text=I'm using VeilSplit to settle recurring shared bills privately on Stellar! No more exposing my wallet transaction history on-chain. Try it here: https://github.com/rishigshshshsh-lab/VeilSplits"
+              href="https://twitter.com/intent/tweet?text=I'm using VeilSplit to settle recurring shared bills privately on Stellar! No more exposing my wallet transaction history on-chain. Try it here: https://github.com/rishi3243kumar/VeilSplits"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-secondary"
@@ -282,7 +282,7 @@ function App() {
               Twitter
             </a>
             <a
-              href="https://api.whatsapp.com/send?text=Check out VeilSplit - Privacy-first bill splitting protocol on Stellar! Try it here: https://github.com/rishigshshshsh-lab/VeilSplits"
+              href="https://api.whatsapp.com/send?text=Check out VeilSplit - Privacy-first bill splitting protocol on Stellar! Try it here: https://github.com/rishi3243kumar/VeilSplits"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-secondary"
