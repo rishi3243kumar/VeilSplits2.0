@@ -270,9 +270,5 @@ VeilSplits/
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Project Credentials & Info
 
-- **GitHub Username:** rishigshshshsh-lab
-- **Email:** rishigshshshsh@gmail.com
-- **Repository Link:** https://github.com/rishigshshshsh-lab/VeilSplits2.0
 
